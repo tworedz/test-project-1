@@ -1,0 +1,7 @@
+[flake8]
+max-line-length=100
+
+accept-encodings = utf-8,utf-16
+no-accept-encodings = True
+
+inline-quotes = "
