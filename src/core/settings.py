@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     # project apps
     "employees",
     "departments",
+    "projects",
 ]
 
 MIDDLEWARE = [
